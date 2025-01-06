@@ -1,4 +1,4 @@
-# Draw a face with code / Sraw a face by hand
+# Draw a face with code / Draw a face by hand
 
 1. Install the [Processing](https://processing.org/download) programming environment.
 
