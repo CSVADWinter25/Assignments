@@ -1,4 +1,5 @@
 # Draw a face with code / Draw a face by hand
+Due Monday, January 13, 10am.
 
 1. Install the [Processing](https://processing.org/download) programming environment.
 
@@ -34,3 +35,4 @@
     ```
     git push -u origin main
     ```
+14. 
