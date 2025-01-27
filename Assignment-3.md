@@ -1,4 +1,4 @@
-# Create a Parametric 3D Form
+### Create a Parametric 3D Form
 
 1. Using the 3D mode in Processing, create a parameterized 3D form
     The form can be a variation of the designs demonstrated in class, or a new 3D design that you create using the Processing 3D primitives and shapes. You can create a form that is abstract (i.e. an amorphous shape) or representational (i.e. a chair). 
