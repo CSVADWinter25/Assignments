@@ -16,6 +16,18 @@ Write a short proposal for your final project based on one of the options. You m
 
 Create an initial prototype of your project. In your proposal, make note of which features of the project are implemented in the prototype and which features will be expanded upon in the final version. If your project builds upon an earlier assignment, explain how the current version differs from the previous iteration, and how it will be further refined in the the final version.
 
+Include in your proposal:
+
+  - Source materials and inspirations
+  
+  - Primary implementation challenges
+
+  - Primary design challenges
+
+  - Ideas for how you will might evaluate the success of your project
+
+  - Sketches or reference materials that might help in presenting your concept
+
 Upload your project description and initial prototype to Github before class on Monday March 3rd under a new directory entitled "finalProject".
 
 Be prepared to discuss your proposal and prototype in class.
